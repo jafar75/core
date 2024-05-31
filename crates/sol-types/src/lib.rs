@@ -14,7 +14,7 @@
 //! processing. In other words, you can represent your smart contract args in
 //! native Rust, easily encode them to pass to a smart contract, and easily
 //! decode the smart contract return values.
-//!
+//!dfdfdfdf
 //! We do this by representing Solidity types in rust via the [`SolType`] trait.
 //! This trait maps Solidity types to Rust types via the associated
 //! [`SolType::RustType`].
